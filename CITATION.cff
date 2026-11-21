@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A re-reduction of historical eclipse observations: solar radius 959.494 ± 0.044″ and a probable sign error in the canonical archive"
+authors:
+  - family-names: "Chourey"
+    given-names: "Atharva"
+    orcid: "https://orcid.org/0009-0009-9423-1718"
+    affiliation: "Atharva Chourey Lab — independent research lab"
+license: CC-BY-4.0
+repository-code: "https://github.com/atharva-chourey-lab/eclipse-radius"
+keywords:
+  - "solar radius"
+  - "historical eclipses"
+  - "Baily's beads"
+  - "LOLA topography"
+  - "archive audit"
+version: "1.0.0-publication"
+date-released: "2026-11-20"
